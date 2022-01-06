@@ -1,3 +1,7 @@
 public class MySuperClass {
-    String str = "Super class string";
+    String superStr = "Super class string";
+
+    public void superClassMethod(){
+        System.out.println("Super class method.");
+    }
 }

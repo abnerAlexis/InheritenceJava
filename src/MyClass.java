@@ -1,4 +1,5 @@
 public class MyClass {
+    
     public static void main(String[] args) {
         MySubClass mySubClass = new MySubClass();
         mySubClass.superClassMethod();

@@ -1,4 +1,5 @@
-public class MySubClass extends MySuperClass{
+public class MySubClass extends MySuperClass {
+    
     public MySubClass() {
         super("");
         System.out.println("sub class constructor");
